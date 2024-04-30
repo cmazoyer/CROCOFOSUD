@@ -2,8 +2,7 @@
 title: "TRAINING CROCO (PSF 2024 IRD)"
 ---
 
-# Aim of the school
-The aim of this school is to learn how to use the CROCO 3D ocean code. It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO. Part of the week will focus on the sediment modules available in CROCO (Mustang and USGS model).
+The aim of the CROCOFOSUD 2024 school is to learn how to use the CROCO 3D ocean code (<https://www.croco-ocean.org/>). It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO. Part of the week will focus on the sediment modules available in CROCO (Mustang and USGS model).
 
 The course will take place from x to x October 2024 in Barcelonnette in the Alps, France. For more information on the location, click on the [How to go](transport.qmd) tab.
 
