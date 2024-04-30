@@ -1,0 +1,44 @@
+---
+title: "TRAINING CROCO (PSF 2024 IRD)"
+---
+
+# Aim of the school
+The aim of this school is to learn how to use the CROCO 3D ocean code. It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO. Part of the week will focus on the sediment modules available in CROCO (Mustang and USGS model).
+
+The course will take place from x to x October 2024 in Barcelonnette in the Alps, France. For more information on the location, click on the [How to go](transport.qmd) tab.
+
+
+# News
+<span style="color:red;">Please check the [Registration](Registration.qmd) tab for the latest information.
+</span>
+
+
+# Organisation
+
+**Planning**: see [planning of the training](Planning.qmd) - beginner training and sediment module
+
+**Language**: French and English if necessary
+
+**Registration deadline**: XXX 2024
+
+**Confirmation of acceptance**: XXX 2024
+
+**Cost** : 
+
+- Free for participants from the south. They can also request financial assistance from the IRD for transport. 
+
+- 300 euros for participants from the north (this includes accommodation and meals). 
+  
+  Participants must pay for their own transport 
+
+# Requierements : 
+
+- knowledge of unix
+
+- an oceanography background
+
+- a laptop to attend the course 
+- 
+This training is funded by IRD (<https://www.ird.fr/>) as part of the _Projet Structurant de Formation CROCOFOSUD_ . 
+
+![](images/logos.png)

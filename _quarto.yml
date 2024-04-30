@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "CROCO TRAINING"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Registration.qmd
+        text: Registration
+      - href: Planning.qmd
+        text : Planning
+      - href: documentation.qmd
+        text : Documentation
+      - href: transport.qmd
+        text : How to go
+      - href: about.qmd
+        text: Trainers and organisers
+      - href: 2023.qmd
+        text: 2023 PSF
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

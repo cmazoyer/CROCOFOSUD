@@ -1,0 +1,15 @@
+---
+title: "Documentation"
+format: html
+---
+
+You will find documentations in: 
+
+- <https://www.croco-ocean.org/download> : CROCO source code, Datasets, Tutorial configurations, ... 
+
+- <https://data-croco.ifremer.fr/DOC/PRES_TRAINING_CROCO_2023_Barcelonette/> : pdf of previous courses of PSF 2023 
+
+- <https://forum.croco-ocean.org/> : forum for help
+
+- <https://gitlab.inria.fr/croco-ocean> : CROCO gitlab with CROCO, croco_tools in Matlab and Python 
+

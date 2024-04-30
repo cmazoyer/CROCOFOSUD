@@ -1,0 +1,8 @@
+---
+title: "Planning"
+format: html
+---
+
+An example of the planning of 2023. For 2024, courses will be about general and sediments.
+
+![](images/planning_2023.jpg)

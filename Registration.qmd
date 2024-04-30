@@ -1,0 +1,30 @@
+---
+title: "Registration"
+---
+
+**04-2024:** We are now accepting applications. You can send your application to [camille.mazoyer@ird.fr](mailto:camille.mazoyer@ird.fr) and [cristele.chevalier@mio.osupytheas.fr](mailto:cristele.chevalier@mio.osupytheas.fr).  
+
+Please include the following information in your application email:
+
+
+Name:
+
+First name:
+
+Organisation:
+
+Country:
+
+
+Background in oceanography: 
+
+Knowledge of Unix: 
+
+Knowledge of CROCO or another ocean model:
+
+
+**For people from the South:**
+
+Contact person from your laboratory or IRD contact: 
+
+Would you like the IRD to contribute to your transport? 
