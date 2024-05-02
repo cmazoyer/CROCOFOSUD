@@ -21,6 +21,8 @@ website:
         text: Trainers and organisers
       - href: 2023.qmd
         text: 2023 PSF
+      - href: 2022.qmd
+        text: 2022 PSF
 format:
   html:
     theme: cosmo

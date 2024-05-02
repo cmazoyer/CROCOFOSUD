@@ -21,6 +21,13 @@
     "text": "You will find documentations in:\n\nhttps://www.croco-ocean.org/download : CROCO source code, Datasets, Tutorial configurations, …\nhttps://data-croco.ifremer.fr/DOC/PRES_TRAINING_CROCO_2023_Barcelonette/ : pdf of previous courses of PSF 2023\nhttps://forum.croco-ocean.org/ : forum for help\nhttps://gitlab.inria.fr/croco-ocean : CROCO gitlab with CROCO, croco_tools in Matlab and Python"
   },
   {
+    "objectID": "transport.html",
+    "href": "transport.html",
+    "title": "How to go to Barcelonnette, France",
+    "section": "",
+    "text": "More informations available here: https://seolane.org/\nThe adress of Seolane center is :\nPôle d’accueil universitaire Séolane\nQuartier du 11è BCA\nChemin des Casernes\n04400 Barcelonnette\nBy Train\nyou can take a train to Gap (Paris-Gap by night for example or Marseille-Gap). Then, you take the bus 535 (Gap-Barcelonette, see https://www.autocars-scal.fr/) wich leaves you 15 minutes’ walk from the Séolane center.\nBy Bus from Marseille\nSee https://www.autocars-scal.fr/ for the bus map and schedule.\nDepending on your schedule, you can take:\n\nthe 69 bus, then the 535 bus, then 15 minutes’ walk.\nthe 68 bus which is direct\n\nBy car you can book a car in Gap or in Marseille."
+  },
+  {
     "objectID": "Registration.html",
     "href": "Registration.html",
     "title": "Registration",
@@ -28,11 +35,11 @@
     "text": "04-2024: We are now accepting applications. You can send your application to camille.mazoyer@ird.fr and cristele.chevalier@mio.osupytheas.fr.\nPlease include the following information in your application email:\nName:\nFirst name:\nOrganisation:\nCountry:\nBackground in oceanography:\nKnowledge of Unix:\nKnowledge of CROCO or another ocean model:\nFor people from the South:\nContact person from your laboratory or IRD contact:\nWould you like the IRD to contribute to your transport?"
   },
   {
-    "objectID": "transport.html",
-    "href": "transport.html",
-    "title": "How to go to Barcelonnette, France",
+    "objectID": "2022.html",
+    "href": "2022.html",
+    "title": "2022 CROCO TRAINING (PSF)",
     "section": "",
-    "text": "More informations available here: https://seolane.org/\nThe adress of Seolane center is :\nPôle d’accueil universitaire Séolane\nQuartier du 11è BCA\nChemin des Casernes\n04400 Barcelonnette\nBy Train\nyou can take a train to Gap (Paris-Gap by night for example or Marseille-Gap). Then, you take the bus 535 (Gap-Barcelonette, see https://www.autocars-scal.fr/) wich leaves you 15 minutes’ walk from the Séolane center.\nBy Bus from Marseille\nSee https://www.autocars-scal.fr/ for the bus map and schedule.\nDepending on your schedule, you can take:\n\nthe 69 bus, then the 535 bus, then 15 minutes’ walk.\nthe 68 bus which is direct\n\nBy car you can book a car in Gap or in Marseille."
+    "text": "Participants and organisers from all over the world\n\n\n\nSomes pictures of the week\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n–"
   },
   {
     "objectID": "2023.html",
