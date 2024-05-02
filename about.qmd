@@ -1,5 +1,5 @@
 ---
-title: "Trainers and organisers"
+title: "Course instructors and organisers"
 ---
 
 <table>
