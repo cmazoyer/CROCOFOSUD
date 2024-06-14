@@ -12,16 +12,8 @@ title: "Course instructors and organisers"
     <td>Cristèle Chevalier, IRD, Institut Méditerranéen d'Océanologie (MIO), France</td>
   </tr>
   <tr>
-    <td><img src="images/organisateurs/dufois.jpg" width="100"></td>
-    <td>François Dufois, IFREMER, France</td>
-  </tr>
-  <tr>
     <td><img src="images/organisateurs/mazoyer.jpg" width="100"></td>
     <td>Camille Mazoyer, IRD, Institut Méditerranéen d'Océanologie (MIO), France</td>
-  </tr>
-  <tr>
-    <td><img src="images/organisateurs/morvan.jpg" width="100"></td>
-    <td>Guillaume Morvan, IRD, LEGOS, France</td>
   </tr>
   <tr>
     <td><img src="images/organisateurs/sow.jpg" width="100"></td>

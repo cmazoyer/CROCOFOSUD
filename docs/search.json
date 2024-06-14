@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "TRAINING CROCO (PSF 2024 IRD)",
     "section": "",
-    "text": "The aim of the CROCOFOSUD 2024 school is to learn how to use the CROCO 3D ocean code (https://www.croco-ocean.org/). It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO. Part of the week will focus on the sediment modules available in CROCO (Mustang and USGS model).\nThe course will take place from x to x October 2024 in Barcelonnette in the Alps, France. For more information on the location, click on the How to go tab.\n\nNews\nPlease check the Registration tab for the latest information. \n\n\nOrganisation\nPlanning: see planning of the training - beginner training and sediment module\nLanguage: French and English if necessary\nRegistration deadline: XXX 2024\nConfirmation of acceptance: XXX 2024\nCost :\n\nFree for participants from the south. They can also request financial assistance from the IRD for transport.\n350 euros for participants from the north (this includes accommodation and meals).\nParticipants must pay for their own transport\n\n\n\nRequierements :\n\nknowledge of unix\nan oceanography background\na laptop to attend the course\nThis training is funded by IRD (https://www.ird.fr/) as part of the Projet Structurant de Formation CROCOFOSUD ."
+    "text": "The aim of the CROCOFOSUD 2024 school is to learn how to use the CROCO 3D ocean code (https://www.croco-ocean.org/). It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO.\nThe course will take place from 7 to 11 October 2024 in Barcelonnette in the Alps, France. For more information on the location, click on the How to go tab.\n\nNews\nPlease check the Registration tab for the latest information. \n\n\nOrganisation\nPlanning: see planning of the training - beginner training and sediment module\nLanguage: French and English if necessary\nRegistration deadline: XXX 2024\nConfirmation of acceptance: XXX 2024\nCost :\n\nFree for participants from the south. They can also request financial assistance from the IRD for transport.\nSee Cristele Chevalier (cristele.chevalier@mio.osupytheas.fr) for the cost for participants from the north (this includes accommodation and meals).\nParticipants must pay for their own transport\n\n\n\nRequierements :\n\nknowledge of unix\nan oceanography background\na laptop to attend the course\nThis training is funded by IRD (https://www.ird.fr/) as part of the Projet Structurant de Formation CROCOFOSUD ."
   },
   {
     "objectID": "Planning.html",
     "href": "Planning.html",
     "title": "Planning",
     "section": "",
-    "text": "An example of the planning of 2023. For 2024, courses will be about general and sediments."
+    "text": "An example of the planning of 2023. For 2024, courses will be about general courses (creation of your own configuration, zoom agrif, …)"
   },
   {
     "objectID": "documentation.html",
@@ -53,6 +53,6 @@
     "href": "about.html",
     "title": "Course instructors and organisers",
     "section": "",
-    "text": "Jihene Abdennadher, IPEIT, Tunisia laboratoire LMF, IPEIT – Université de Tunis, Tunisie\n\n\n\n\n\n\n\nCristèle Chevalier, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nFrançois Dufois, IFREMER, France\n\n\n\n\n\n\n\nCamille Mazoyer, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nGuillaume Morvan, IRD, LEGOS, France\n\n\n\n\n\n\n\nBamol Sow, Laboratoire d’Océanographie, des Sciences de l’Environnement et du Climat (LOSEC), Université Assane SECK de Ziguinchor, Sénégal"
+    "text": "Jihene Abdennadher, IPEIT, Tunisia laboratoire LMF, IPEIT – Université de Tunis, Tunisie\n\n\n\n\n\n\n\nCristèle Chevalier, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nCamille Mazoyer, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nBamol Sow, Laboratoire d’Océanographie, des Sciences de l’Environnement et du Climat (LOSEC), Université Assane SECK de Ziguinchor, Sénégal"
   }
 ]
