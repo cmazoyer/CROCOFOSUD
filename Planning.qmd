@@ -3,6 +3,6 @@ title: "Planning"
 format: html
 ---
 
-An example of the planning of 2023. For 2024, courses will be about general courses (creation of your own configuration, zoom agrif, ...)
+For 2024, courses will be about general courses (creation of your own configuration, zoom agrif,...). This is an example of planning, which will be improved. We will give you the final planning soon. 
 
-![](images/planning_2023.jpg)
+![](images/planning.jpg)
