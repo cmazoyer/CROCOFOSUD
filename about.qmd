@@ -19,4 +19,8 @@ title: "Course instructors and organisers"
     <td><img src="images/organisateurs/sow.jpg" width="100"></td>
     <td>Bamol Sow, Laboratoire d'Océanographie, des Sciences de l'Environnement et du Climat (LOSEC), Université Assane SECK de Ziguinchor, Sénégal</td>
   </tr>
+  <tr>
+    <td><img src="images/organisateurs/mallarino.jpg" width="100"></td>
+    <td>Didier Mallarino, CNRS, Institut Méditerranéen d'Océanologie (MIO), France </td>
+  </tr>  
 </table>
