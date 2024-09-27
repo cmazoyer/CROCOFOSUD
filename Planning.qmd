@@ -3,6 +3,6 @@ title: "Planning"
 format: html
 ---
 
-For 2024, courses will be about general courses (creation of your own configuration, zoom agrif,...). This is an example of planning, which will be improved. We will give you the final planning soon. 
+For 2024, courses will be about general courses: using crocotools (matlab toolbox), creation of your own configuration, zoom agrif, adding river...
 
 ![](images/planning_2024_v2.png)
