@@ -23,11 +23,13 @@ you can take a train to Gap (Paris-Gap by night for example or Marseille-Gap). T
 
 See <https://www.autocars-scal.fr/> for the bus map and schedule.
 
-Depending on your schedule, you can take: 
+Depending on your schedule, you can take the Bus 28 which is direct:
+  
+- For Sunday, the 17th of November, you have the Bus number 28 at 7:00 am at Gare St Charles de Marseille, that arrives at 11:30 am at Barcelonnette, or you have the travel 16:30 pm (Marseille) to 20:00 (Barcelonette), then 15 minutes' walk.  [see the pdf](pdf/Bus_Ligne28.pdf)
 
-- the 69 bus, then the 535 bus, then 15 minutes' walk. 
-
-- the 68 bus which is direct
+- For Friday, the 22th of November, you have 15 minutes' walk, then the Bus number 28 at 16:45 pm at Barcelonette that arrives at 20:00 at Gare St Charles de Marseille [see the pdf](pdf/Bus_Ligne28.pdf)
+  
+- or you can take the 69 bus, then the 535 bus.
 
 
 **By car**
