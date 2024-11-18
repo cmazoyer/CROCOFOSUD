@@ -11,5 +11,6 @@ For 2024, courses will be about general courses: using crocotools (matlab toolbo
 
 You can find the PDF of the courses and pratical courses for the 2024 training here: 
 
-- [ Jour 1 - intro speech](pdf/2024/jour 1 - 2024 Basic CROCO training introduction speech.pdf)
-  
+- [ Jour 1 - 01 - intro speech](pdf/2024/jour1-01-introduction-speech.pdf)
+- [ Jour 1 - 02 - intro croco](pdf/2024/jour1-02-intro-croco.pdf)
+
