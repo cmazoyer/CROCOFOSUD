@@ -6,3 +6,9 @@ format: html
 For 2024, courses will be about general courses: using crocotools (matlab toolbox), creation of your own configuration, zoom agrif, adding river...
 
 ![](images/planning_2024_v3.png)
+
+# courses and pratical courses PDF for the 2024 training
+
+You can find the PDF of the courses and pratical courses for the 2024 training here: [All courses](pdf/2024/)
+  
+  
