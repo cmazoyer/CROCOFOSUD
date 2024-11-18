@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "2022.html",
-    "href": "2022.html",
-    "title": "2022 CROCO TRAINING (PSF)",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TRAINING CROCO (PSF 2024 IRD)",
     "section": "",
-    "text": "Participants and organisers from all over the world\n\n\n\nSomes pictures of the week\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n–"
-  },
-  {
-    "objectID": "transport.html",
-    "href": "transport.html",
-    "title": "How to go to Barcelonnette, France",
-    "section": "",
-    "text": "More informations available here: https://seolane.org/\nThe adress of Seolane center is :\nPôle d’accueil universitaire Séolane\nQuartier du 11è BCA\nChemin des Casernes\n04400 Barcelonnette\nBy Train\nyou can take a train to Gap (Paris-Gap by night for example or Marseille-Gap). Then, you take the bus 535 (Gap-Barcelonette, see https://www.autocars-scal.fr/) wich leaves you 15 minutes’ walk from the Séolane center.\nBy Bus from Marseille\nSee https://www.autocars-scal.fr/ for the bus map and schedule.\nDepending on your schedule, you can take the Bus 28 which is direct:\n\nFor Sunday, the 17th of November, you have the Bus number 28 at 7:00 am at Gare St Charles de Marseille, that arrives at 11:30 am at Barcelonnette, or you have the travel 16:30 pm (Marseille) to 20:00 (Barcelonette), then 15 minutes’ walk. see the pdf\nFor Friday, the 22th of November, you have 15 minutes’ walk, then the Bus number 28 at 16:45 pm at Barcelonette that arrives at 20:00 at Gare St Charles de Marseille see the pdf\nor you can take the 69 bus, then the 535 bus.\n\nBy car you can book a car in Gap or in Marseille."
+    "text": "The aim of the CROCOFOSUD 2024 school is to learn how to use the CROCO 3D ocean code (https://www.croco-ocean.org/). It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO.\nThe course will take place from Monday, the 18th to Friday, the 22nd of November 2024 in Barcelonnette in the Alps, France. We recommend that you arrive the day before, on November 17th. For more information on the location, click on the How to go tab.\n\nNews\n We will soon contact the participants with the final details before their arrival (computer, meals, etc.). \n\n\nOrganisation\nPlanning: see planning of the training - beginner training\nLanguage: French and English if necessary\nRegistration deadline: closed but there is still one or two spots left. Do not hesitate to contact us.\nCost :\n\nFree for participants from the south. They can also request financial assistance from the IRD for transport.\nSee Cristele Chevalier (cristele.chevalier@mio.osupytheas.fr) for the cost for participants from the north (this includes accommodation and meals).\nParticipants must pay for their own transport\n\n\n\nRequierements :\n\nknowledge of unix\nan oceanography background\na laptop to attend the course\nThis training is funded by IRD (https://www.ird.fr/) as part of the Projet Structurant de Formation CROCOFOSUD ."
   },
   {
     "objectID": "Planning.html",
@@ -21,13 +14,6 @@
     "text": "For 2024, courses will be about general courses: using crocotools (matlab toolbox), creation of your own configuration, zoom agrif, adding river…\n\n\ncourses and pratical courses PDF for the 2024 training\nYou can find the PDF of the courses and pratical courses for the 2024 training here:\n\nJour 1 - intro speech"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TRAINING CROCO (PSF 2024 IRD)",
-    "section": "",
-    "text": "The aim of the CROCOFOSUD 2024 school is to learn how to use the CROCO 3D ocean code (https://www.croco-ocean.org/). It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO.\nThe course will take place from Monday, the 18th to Friday, the 22nd of November 2024 in Barcelonnette in the Alps, France. We recommend that you arrive the day before, on November 17th. For more information on the location, click on the How to go tab.\n\nNews\n We will soon contact the participants with the final details before their arrival (computer, meals, etc.). \n\n\nOrganisation\nPlanning: see planning of the training - beginner training\nLanguage: French and English if necessary\nRegistration deadline: closed but there is still one or two spots left. Do not hesitate to contact us.\nCost :\n\nFree for participants from the south. They can also request financial assistance from the IRD for transport.\nSee Cristele Chevalier (cristele.chevalier@mio.osupytheas.fr) for the cost for participants from the north (this includes accommodation and meals).\nParticipants must pay for their own transport\n\n\n\nRequierements :\n\nknowledge of unix\nan oceanography background\na laptop to attend the course\nThis training is funded by IRD (https://www.ird.fr/) as part of the Projet Structurant de Formation CROCOFOSUD ."
-  },
-  {
     "objectID": "documentation.html",
     "href": "documentation.html",
     "title": "Documentation",
@@ -35,11 +21,11 @@
     "text": "You will find documentations in:\n\nhttps://www.croco-ocean.org/download : CROCO source code, Datasets, Tutorial configurations, …\nhttps://data-croco.ifremer.fr/DOC/PRES_TRAINING_CROCO_2023_Barcelonette/ : pdf of previous courses of PSF 2023\nhttps://forum.croco-ocean.org/ : forum for help\nhttps://gitlab.inria.fr/croco-ocean : CROCO gitlab with CROCO, croco_tools in Matlab and Python"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Course instructors and organisers",
+    "objectID": "transport.html",
+    "href": "transport.html",
+    "title": "How to go to Barcelonnette, France",
     "section": "",
-    "text": "Jihene Abdennadher, IPEIT, Tunisia laboratoire LMF, IPEIT – Université de Tunis, Tunisie\n\n\n\n\n\n\n\nMoncef Boukthir, IPEIT, Tunisia laboratoire LMF, IPEIT – Université de Tunis, Tunisie\n\n\n\n\n\n\n\nCristèle Chevalier, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nCamille Mazoyer, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nBamol Sow, Laboratoire d’Océanographie, des Sciences de l’Environnement et du Climat (LOSEC), Université Assane SECK de Ziguinchor, Sénégal\n\n\n\n\n\n\n\nDidier Mallarino, CNRS, Observatoire en Sciences de L’univers (OSU) Pythéas, France"
+    "text": "More informations available here: https://seolane.org/\nThe adress of Seolane center is :\nPôle d’accueil universitaire Séolane\nQuartier du 11è BCA\nChemin des Casernes\n04400 Barcelonnette\nBy Train\nyou can take a train to Gap (Paris-Gap by night for example or Marseille-Gap). Then, you take the bus 535 (Gap-Barcelonette, see https://www.autocars-scal.fr/) wich leaves you 15 minutes’ walk from the Séolane center.\nBy Bus from Marseille\nSee https://www.autocars-scal.fr/ for the bus map and schedule.\nDepending on your schedule, you can take the Bus 28 which is direct:\n\nFor Sunday, the 17th of November, you have the Bus number 28 at 7:00 am at Gare St Charles de Marseille, that arrives at 11:30 am at Barcelonnette, or you have the travel 16:30 pm (Marseille) to 20:00 (Barcelonette), then 15 minutes’ walk. see the pdf\nFor Friday, the 22th of November, you have 15 minutes’ walk, then the Bus number 28 at 16:45 pm at Barcelonette that arrives at 20:00 at Gare St Charles de Marseille see the pdf\nor you can take the 69 bus, then the 535 bus.\n\nBy car you can book a car in Gap or in Marseille."
   },
   {
     "objectID": "Registration.html",
@@ -49,10 +35,24 @@
     "text": "04-2024: We are now accepting applications. You can send your application to camille.mazoyer@ird.fr and cristele.chevalier@mio.osupytheas.fr.\nPlease include the following information in your application email:\nName:\nFirst name:\nOrganisation:\nCountry:\nBackground in oceanography:\nKnowledge of Unix:\nKnowledge of CROCO or another ocean model:\nFor people from the South:\nContact person from your laboratory or IRD contact:\nWould you like the IRD to contribute to your transport?"
   },
   {
+    "objectID": "2022.html",
+    "href": "2022.html",
+    "title": "2022 CROCO TRAINING (PSF)",
+    "section": "",
+    "text": "Participants and organisers from all over the world\n\n\n\nSomes pictures of the week\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n–"
+  },
+  {
     "objectID": "2023.html",
     "href": "2023.html",
     "title": "2023 CROCO TRAINING (PSF)",
     "section": "",
     "text": "Participants and organisers from all over the world\n\n\n\nPlanning for beginners and advanced participants"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Course instructors and organisers",
+    "section": "",
+    "text": "Jihene Abdennadher, IPEIT, Tunisia laboratoire LMF, IPEIT – Université de Tunis, Tunisie\n\n\n\n\n\n\n\nMoncef Boukthir , IPEIT, Tunisia laboratoire LMF, IPEIT – Université de Tunis, Tunisie\n\n\n\n\n\n\n\nCristèle Chevalier, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nCamille Mazoyer, IRD, Institut Méditerranéen d’Océanologie (MIO), France\n\n\n\n\n\n\n\nBamol Sow, Laboratoire d’Océanographie, des Sciences de l’Environnement et du Climat (LOSEC), Université Assane SECK de Ziguinchor, Sénégal\n\n\n\n\n\n\n\nDidier Mallarino, CNRS, Observatoire en Sciences de L’univers (OSU) Pythéas, France"
   }
 ]
