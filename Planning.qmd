@@ -20,3 +20,6 @@ You can find the PDF of the courses and pratical courses for the 2024 training h
 - [ Day 2 - 01 - crocotools](pdf/2024/jour2-01-intro-crocotools.pdf)
 - [ Day 2 - 02 - crocotools next (interanual ..)](pdf/2024/jour2-02-crocotools-2.pdf)
 
+- [ Day 3 - 01 - parallelization with mpi and with netcdf](pdf/2024/jour3-01-parallelization-mpi-and-netcdf.pdf)
+  
+- [agrif](pdf/2024/agrif.pdf)
