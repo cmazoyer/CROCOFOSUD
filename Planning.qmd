@@ -11,12 +11,12 @@ For 2024, courses will be about general courses: using crocotools (matlab toolbo
 
 You can find the PDF of the courses and pratical courses for the 2024 training here: 
 
-- [ Jour 1 - 01 - intro speech](pdf/2024/jour1-01-introduction-speech.pdf)
-- [ Jour 1 - 02 - intro croco](pdf/2024/jour1-02-intro-croco.pdf)
-- [ Jour 1 - 03 - set a configuration](pdf/2024/jour1-03-set-configuration.pdf)
-- [ Jour 1 - 04 - architecture of croco sources](pdf/2024/jour1-04-architecture.pdf)
-- [ Jour 1 - 05 - test cases](pdf/2024/jour1-05-testcases.pdf)
+- [ Day 1 - 01 - intro speech](pdf/2024/jour1-01-introduction-speech.pdf)
+- [ Day 1 - 02 - intro croco](pdf/2024/jour1-02-intro-croco.pdf)
+- [ Day 1 - 03 - set a configuration](pdf/2024/jour1-03-set-configuration.pdf)
+- [ Day 1 - 04 - architecture of croco sources](pdf/2024/jour1-04-architecture.pdf)
+- [ Day 1 - 05 - test cases](pdf/2024/jour1-05-testcases.pdf)
 
-- [ Jour 2 - 01 - crocotools](pdf/2024/jour2-01-intro-crocotools.pdf)
-
+- [ Day 2 - 01 - crocotools](pdf/2024/jour2-01-intro-crocotools.pdf)
+- [ Day 2 - 02 - crocotools next (interanual ..)](pdf/2024/jour2-02-crocotools-2.pdf)
 
