@@ -19,6 +19,8 @@ website:
         text : How to go
       - href: about.qmd
         text: Course instructors and organisers
+      - href: 2024.qmd
+        text: 2024 PSF
       - href: 2023.qmd
         text: 2023 PSF
       - href: 2022.qmd
