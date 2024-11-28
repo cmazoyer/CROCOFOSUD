@@ -4,21 +4,26 @@ title: "TRAINING CROCO (PSF 2024 IRD)"
 
 The aim of the CROCOFOSUD 2024 school is to learn how to use the CROCO 3D ocean code (<https://www.croco-ocean.org/>). It is aimed at people with an oceanography background who are either beginners or who wish to reinforce their knowledge of the general concepts of CROCO. 
 
-The course will take place from Monday, the 18th to Friday, the 22nd of November 2024 in Barcelonnette in the Alps, France. We recommend that you arrive the day before, on November 17th. For more information on the location, click on the [How to go](transport.qmd) tab.
+During the PSF CROCOFOSUD project, we organized training sessions every year for three years in Barcelonnette, in the Alps, France. The last training session took place from November 18 to 22, 2024.
+
+
+<!--The course will take place from Monday, the 18th to Friday, the 22nd of November 2024 in Barcelonnette in the Alps, France. We recommend that you arrive the day before, on November 17th. For more information on the location, click on the [How to go](transport.qmd) tab.-->
 
 
 # News
-<span style="color:red;"> We will soon contact the participants with the final details before their arrival (computer, meals, etc.).
-</span>
+CROCOFOSUD has now been completed, and we do not yet have a new training project.
+
+<!--<span style="color:red;"> We will soon contact the participants with the final details before their arrival (computer, meals, etc.).
+</span>-->
 
 
 # Organisation
 
-**Planning**: see [planning of the training](Planning.qmd) - beginner training 
+**Planning**: see last [planning of the training](Planning.qmd) - beginner training 
 
 **Language**: French and English if necessary
 
-**Registration deadline**: closed but there is still one or two spots left. Do not hesitate to contact us.
+**Registration deadline**: closed.
 
 **Cost** : 
 
