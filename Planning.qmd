@@ -22,4 +22,4 @@ You can find the PDF of the courses and pratical courses for the 2024 training h
 
 - [ Day 3 - 01 - parallelization with mpi and with netcdf](pdf/2024/jour3-01-parallelization-mpi-and-netcdf.pdf)
   
-- [agrif](pdf/2024/agrif.pdf)
+- [ Day 4 - agrif](pdf/2024/jour4-agrif.pdf)
